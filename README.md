@@ -95,9 +95,9 @@ cd admin
 npm start
 
 
-Access the app in browser: http://localhost:3000
+Access the app in browser: https://food-delivery-b77m.vercel.app/)
 
-Admin panel: http://localhost:3001 (or configured port)
+Admin panel: https://food-delivery-1h4x.vercel.app/
 
 ⚠️ Notes
 
